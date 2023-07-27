@@ -1,6 +1,9 @@
-### Hi there 👋
-This is Sarthak Atlasia, welcoming you to my Github profile.
-I am a web developer and currently pursuing Bachelor of Technology in major Electronics and Telecommunication from Shri G.S institute of Technology and Science, Indore.
+### Hi there 👋 I am Sarthak Atlasia
+Welcoming you to my Github profile.
+
+- 🔭 **I’m currently pursuing Bachelor of Technology in major Electronics and Telecommunication from SGSITS, Indore.**
+- 👯 **I’m a Web Developer .**
+- 🌱 **I’m currently learning Data Structures and Algorithm .**
 
 <!--
 **sarthak2443/sarthak2443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![sarthak2443](./assets/images/github-readme-cover.gif)
+- 📫 How to reach me:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2ea44f)](https://www.linkedin.com/in/sarthak-atlasia-4170aa133/)
 &nbsp;
@@ -38,9 +41,9 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak2443&layout=compact&theme=dark&show_border=true)
 
-## Personal Portfolio 
-
+<!--
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sarthak2443&repo=Portfolio&theme=chartreuse-dark&hide_border=true)](https://sarthakatlasia.netlify.app/)
+-->
 
 ## Technical Skills 🛠️
 
@@ -67,10 +70,3 @@ Here are some ideas to get you started:
 [![Tools - Google](https://img.shields.io/badge/Tools-Google-2ea44f?logo=Google)](https://google.com)
 &nbsp;
 [![Tools - Linux](https://img.shields.io/badge/Tools-Linux-2ea44f?logo=Linux)](https://github.com/)
-
-## Open Source Trophies 🏆
-    
-![Trophy](https://github-profile-trophy.vercel.app/?username=sarthak2443&theme=algolia&no-bg=true&no-frame=true&column=6)
-
-
-
