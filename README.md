@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2ea44f)](https://www.linkedin.com/in/sarthak-atlasia-4170aa133/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/sarthak-atlasia-4170aa133/)
 &nbsp;
-[![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=2ea44f)](https://twitter.com/Sarthakatlasia)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=blue)](https://twitter.com/Sarthakatlasia)
 &nbsp;
-[![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=2ea44f)](https://www.facebook.com/sarthak.atlasia)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/sarthak.atlasia)
 &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/GMail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=2ea44f)](mailto:imp.sarthak.atlasia@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/GMail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=blue)](mailto:imp.sarthak.atlasia@gmail.com)
 
 
 ## My Open Source Stats 📈
