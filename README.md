@@ -1,24 +1,24 @@
-### Hi there 👋 I am Sarthak Atlasia
-Welcoming you to my Github profile.
+# 👋 Hi there, I'm Sarthak Atlasia
 
-- 🔭 **I’m currently pursuing Bachelor of Technology in major Electronics and Telecommunication from SGSITS, Indore.**
-- 👯 **I’m a Web Developer .**
-- 🌱 **I’m currently learning Data Structures and Algorithm .**
+Welcome to my GitHub profile!
 
-<!--
-**sarthak2443/sarthak2443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm a **Bachelor of Technology** graduate in **Electronics and Telecommunication** from **SGSITS, Indore**.
+- 💼 Currently working at **Amdocs** as a **Software Test Engineer**, exploring opportunities in **Software Development**.
+- 👨‍💻 I’m passionate about **Web Development** and continuously expanding my skillset in **Backend Technologies**.
+- 🌱 Currently sharpening my knowledge of **Data Structures and Algorithms**, and working on **development side projects**.
+- 🚀 Always open to collaborate, learn, and contribute to impactful tech solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚒️ Tech Stack
+
+- **Languages**: Python, C++, JavaScript  
+- **Frontend**: HTML, CSS, React.js  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB, MySQL  
+- **Tools & Platforms**: Git, GitHub, Postman, VS Code, Selenium  
+
+---
 
 - 📫 How to reach me:
 
