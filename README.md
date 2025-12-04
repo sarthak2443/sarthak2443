@@ -38,8 +38,7 @@ Welcome to my GitHub profile!
 
 
 ## Language Diversity 📊
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak2443&layout=compact&theme=dark&show_border=true)
+![Top Langs](https://github-readme-stats-lyart-psi.vercel.app/api/top-langs/?username=sarthak2443&layout=compact&theme=dark&hide_border=true)
 
 <!--
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sarthak2443&repo=Portfolio&theme=chartreuse-dark&hide_border=true)](https://sarthakatlasia4.netlify.app/)
