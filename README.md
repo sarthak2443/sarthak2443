@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 - 🎓 I'm a **Bachelor of Technology** graduate in **Electronics and Telecommunication** from **SGSITS, Indore**.
 - 💼 Worked at **Amdocs** as a **Associate Software Engineer**, exploring opportunities in **Software Development**.
 - 👨‍💻 I’m passionate about **Web Development** and continuously expanding my skillset in **Backend Technologies**.
-- 🌱 Currently sharpening my knowledge of **Data Structures and Algorithms**, and working on **development side projects**.
+- 🌱 Currently sharpening my knowledge of **Data Structures and Algorithms**, and **System Design** also working on **development side projects**.
 - 🚀 Always open to collaborate, learn, and contribute to impactful tech solutions.
 
 ---
