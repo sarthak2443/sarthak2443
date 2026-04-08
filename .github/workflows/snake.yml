@@ -6,15 +6,14 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # ⭐ VERY IMPORTANT (fixes error 128)
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Generate snake
         uses: Platane/snk@v3
@@ -22,6 +21,7 @@ jobs:
           github_user_name: sarthak2443
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
