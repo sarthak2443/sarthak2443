@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 ### ⚒️ Tech Stack
 
-- **Languages**: Python, C++, JavaScript  
+- **Languages**: Python, GO, C++, JavaScript  
 - **Frontend**: HTML, CSS, React.js  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB, MySQL  
@@ -65,6 +65,13 @@ Welcome to my GitHub profile!
 
 ---
 
+## ⚡ Coding Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarthak2443&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarthak2443&theme=tokyonight"/>
+</p>
+
 ## Technical Skills 🛠️
 
 [![Code - C++](https://img.shields.io/badge/Code-C%2B%2B-2ea44f?logo=c%2B%2B&logoColor=blue)](https://www.cplusplus.com)
@@ -104,3 +111,9 @@ Welcome to my GitHub profile!
 [![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/sarthak.atlasia)
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/GMail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=blue)](mailto:imp.sarthak.atlasia@gmail.com)
+
+## 💡 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
