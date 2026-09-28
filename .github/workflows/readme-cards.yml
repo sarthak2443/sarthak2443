@@ -1,0 +1,47 @@
+name: Generate README Cards
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/readme-cards.yml
+      - .github/scripts/generate_readme_cards.py
+      - README.md
+      - profile/stats.svg
+      - profile/top-langs.svg
+      - profile/portfolio.svg
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-readme-cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile cards
+        env:
+          GITHUB_OWNER: sarthak2443
+          FEATURED_REPO: Portfolio
+          OUTPUT_DIR: profile
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/generate_readme_cards.py
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg profile/portfolio.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: update generated profile cards"
+          git push
