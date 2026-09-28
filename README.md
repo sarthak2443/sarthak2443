@@ -27,14 +27,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthak2443&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&card_width=450" height="180" alt="Sarthak's GitHub statistics" />
+  <img src="./profile/stats.svg" height="180" alt="Sarthak's GitHub statistics" />
   <img src="https://streak-stats.demolab.com/?user=sarthak2443&theme=tokyonight&hide_border=true&card_width=450" height="180" alt="Sarthak's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak2443&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=450" height="180" alt="Sarthak's most used languages" />
+  <img src="./profile/top-langs.svg" height="180" alt="Sarthak's most used languages" />
   <a href="https://github.com/sarthak2443/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthak2443&repo=Portfolio&theme=tokyonight&hide_border=true&card_width=450" height="180" alt="Featured Portfolio project" />
+    <img src="./profile/portfolio.svg" height="180" alt="Featured Portfolio project" />
   </a>
 </p>
 
