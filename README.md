@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 ## My Open Source Stats 📈
 
 <p align="center">
-  <img src="https://github-readme-stats-8dw5.vercel.app/api?username=sarthak2443&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthak2443&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=sarthak2443&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
@@ -53,8 +53,8 @@ Welcome to my GitHub profile!
 ## 📊 Language & Featured Project
 
 <p align="center">
-  <img src="https://github-readme-stats-8dw5.vercel.app/api/top-langs/?username=sarthak2443&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats-8dw5.vercel.app/api/pin/?username=sarthak2443&repo=portfolio&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak2443&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthak2443&repo=portfolio&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
