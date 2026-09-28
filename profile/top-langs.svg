@@ -3,5 +3,9 @@
   <desc id="desc">Generated GitHub profile card for sarthak2443</desc>
   <rect width="100%" height="100%" rx="12" fill="#0d1117" stroke="#30363d"/>
   <text x="24" y="40" fill="#58a6ff" font-size="20" font-weight="700">Top Languages</text>
-    <text x="24" y="74" fill="#c9d1d9" font-size="16">No language statistics available</text>
+    <text x="24" y="74" fill="#c9d1d9" font-size="16">Python: 86%</text>
+    <text x="24" y="98" fill="#c9d1d9" font-size="16">JavaScript: 11%</text>
+    <text x="24" y="122" fill="#c9d1d9" font-size="16">C++: 1%</text>
+    <text x="24" y="146" fill="#c9d1d9" font-size="16">HTML: 0%</text>
+    <text x="24" y="170" fill="#c9d1d9" font-size="16">TypeScript: 0%</text>
 </svg>
