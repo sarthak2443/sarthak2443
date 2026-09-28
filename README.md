@@ -31,13 +31,6 @@
   <img src="https://streak-stats.demolab.com/?user=sarthak2443&theme=tokyonight&hide_border=true&card_width=450" height="180" alt="Sarthak's GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="./profile/top-langs.svg" height="180" alt="Sarthak's most used languages" />
-  <a href="https://github.com/sarthak2443/Portfolio">
-    <img src="./profile/portfolio.svg" height="180" alt="Featured Portfolio project" />
-  </a>
-</p>
-
 ## 📅 Contribution Activity
 
 View my complete contribution history on [my GitHub profile](https://github.com/sarthak2443).
