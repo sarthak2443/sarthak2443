@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sarthak Atlasia
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Backend+Developer;Golang+Learner;System+Design+Enthusiast)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Golang+Learner;System+Design+Enthusiast)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile!
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 ### ⚒️ Tech Stack
 
-- **Languages**: Python, GO, C++, JavaScript  
+- **Languages**: Python, Go, C++, JavaScript  
 - **Frontend**: HTML, CSS, React.js  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB, MySQL  
@@ -25,27 +25,27 @@ Welcome to my GitHub profile!
 ## My Open Source Stats 📈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthak2443&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=sarthak2443&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthak2443&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="Sarthak's GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=sarthak2443&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="Sarthak's GitHub streak"/>
 </p>
 
 ---
 
 ## 📅 Contribution Graph
 
-![Sarthak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthak2443&theme=tokyo-night&hide_border=true)
+![Sarthak's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthak2443&theme=tokyo-night&hide_border=true&area=true&custom_title=Sarthak%27s%20Contribution%20Graph)
 
 ---
 
 ## 📊 Detailed Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthak2443&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthak2443&theme=tokyonight" alt="Profile details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarthak2443&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarthak2443&theme=tokyonight&utcOffset=5.5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarthak2443&theme=tokyonight" alt="GitHub statistics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarthak2443&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
 </p>
 
 ---
@@ -53,23 +53,29 @@ Welcome to my GitHub profile!
 ## 📊 Language & Featured Project
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak2443&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthak2443&repo=portfolio&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak2443&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthak2443&repo=Portfolio&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="Featured Portfolio project"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/sarthak2443/sarthak2443/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthak2443/sarthak2443/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthak2443/sarthak2443/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sarthak2443/sarthak2443/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
 ## ⚡ Coding Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarthak2443&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarthak2443&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarthak2443&theme=tokyonight" alt="Repositories by language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarthak2443&theme=tokyonight" alt="Most committed language"/>
 </p>
 
 ## Technical Skills 🛠️
@@ -115,5 +121,5 @@ Welcome to my GitHub profile!
 ## 💡 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
 </p>
