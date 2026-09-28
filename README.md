@@ -40,9 +40,7 @@
 
 ## 📅 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak2443&theme=tokyo-night&hide_border=true&area=true&custom_title=Sarthak%27s%20Contribution%20Graph" alt="Sarthak's GitHub activity graph" />
-</p>
+View my complete contribution history on [my GitHub profile](https://github.com/sarthak2443).
 
 ## 🐍 Contribution Snake
 
