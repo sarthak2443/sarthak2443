@@ -21,7 +21,7 @@
 ## ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,postman,vscode,linux" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=go,python,cpp,js,html,css,react,nodejs,mongodb,mysql,git,github,postman,vscode,linux" alt="Technology stack" />
 </p>
 
 ## 📊 GitHub Analytics
